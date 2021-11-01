@@ -12,3 +12,11 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+src/main/resources/*.pem
+src/main/resources/*.jks
+src/main/resources/private_key.pem
+src/main/resources/cacerts
+
+
+.idea
