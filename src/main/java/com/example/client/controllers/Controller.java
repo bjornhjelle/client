@@ -23,7 +23,6 @@ import java.util.UUID;
 
 @Slf4j
 @RestController
-@RequestMapping(value = "/nt-gateway")
 public class Controller {
 
 
